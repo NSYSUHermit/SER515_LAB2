@@ -2,7 +2,7 @@
 
 ## Commit Hashes
 - **Activity 1**: `17f7c84` (Factory Patternn)
-- **Activity 2**: `` (Singleton)
+- **Activity 2**: `4e1628c` (Singleton)
 - **Activity 3**: `` (Strategy Pattern)
 
 ## File Locations
