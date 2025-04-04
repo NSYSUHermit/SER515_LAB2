@@ -1,7 +1,7 @@
 # Construction Lab 2
 
 ## Commit Hashes
-- **Activity 1**: `a1b2c3d4` (Factory Patternn)
+- **Activity 1**: `17f7c84` (Factory Patternn)
 - **Activity 2**: `` (Singleton)
 - **Activity 3**: `` (Strategy Pattern)
 
