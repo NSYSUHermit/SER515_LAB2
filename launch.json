@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Run AltMain",
+        "request": "launch",
+        "mainClass": "AltMain",
+        "classPaths": [
+          "classes",
+          "lib/json-simple-1.1.1.jar"
+        ],
+        "vmArgs": "-Ddata=${workspaceFolder}/data.json -Dvi=test"
+      },
+      {
+        "type": "java",
+        "name": "Run Main",
+        "request": "launch",
+        "mainClass": "Main",
+        "classPaths": [
+          "classes",
+          "lib/json-simple-1.1.1.jar"
+        ],
+        "vmArgs": "-Ddata=${workspaceFolder}/data.json -Dvi=test"
+      }
+    ]
+  }
+  
