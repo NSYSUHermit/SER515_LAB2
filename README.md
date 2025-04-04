@@ -10,7 +10,7 @@
 - Discussion is at the bottom of this README.
 
 ## Notes
-- Run `run_main.bat`, `run_altmain.bat` with appropriate system properties:
+- Run `run_main.bat`, `run_altmain.bat`, `run_act2main.bat`, `run_act3main.bat` with appropriate system properties:
 - `AltMain`: `-Dvi=alt -Ddata=<json_file>`
 - The `.git` folder is included in the zip.
 
