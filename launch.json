@@ -33,6 +33,17 @@
           "lib/json-simple-1.1.1.jar"
         ],
         "vmArgs": "-Ddata=${workspaceFolder}/data.json -Dvi=test"
+      },
+      {
+        "type": "java",
+        "name": "Run Act3Main",
+        "request": "launch",
+        "mainClass": "Act3Main",
+        "classPaths": [
+          "classes",
+          "lib/json-simple-1.1.1.jar"
+        ],
+        "vmArgs": "-Ddata=${workspaceFolder}/data.json -Dvi=test"
       }
     ]
   }
